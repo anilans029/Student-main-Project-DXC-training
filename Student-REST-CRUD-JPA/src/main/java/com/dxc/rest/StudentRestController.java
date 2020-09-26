@@ -18,7 +18,7 @@ import com.dxc.service.StudentService;
 
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/")
 public class StudentRestController {
 
 	@Autowired
